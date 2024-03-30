@@ -1,0 +1,28 @@
+body{
+    background-image: url("image/coverpage") !important;
+    background-size: cover !important;
+}
+p.who-para{
+    font-size: 20px;
+}
+
+a.readmore{
+    text-decoration: none;
+    border:1px solid blue;
+    padding:10px;
+    color: blue;
+    display: inline-block;
+
+}
+
+
+a.readmore:hover{
+    background-color: black;
+    color: rgb(240, 249, 255);
+
+}
+.background{
+    background-image: url(image/coverpage.jpg);
+    background-size: cover;
+}
+
